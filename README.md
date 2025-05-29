@@ -18,8 +18,12 @@ A simple React-based e-commerce web application for online plant shopping. Desig
 
 ## 🚀 Getting Started
 
-### 1. Clone the repository
+### Clone the repository
 ```bash
+git clone https://github.com/10000Katherine/e-plantShopping.git
+cd e-plantShopping
+
+### 1. get clone
 git clone https://github.com/10000Katherine/e-plantShopping.git
 cd e-plantShopping
 
